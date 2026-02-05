@@ -23,7 +23,7 @@ To replicate specific tables, refer to the corresponding scripts:
 * **Table 7**  `Table 10.R`- *Comprehensive Results*
 
 ### Data Gathering
-* For the data used to write this replication package please refer to the freely available and downloable data provided in the replication package in the AER page of the paper: https://www.aeaweb.org/articles?id=10.1257/aer.103.6.2121
+* For the data used to write this replication paper please refer to the freely available and downloable data provided in the replication package in the AER page of the paper: https://www.aeaweb.org/articles?id=10.1257/aer.103.6.2121
 
 ---
 **Tools used:** R, Tidyverse, haven, dplyr, AER, lmtest, modelsummary, sandwich
