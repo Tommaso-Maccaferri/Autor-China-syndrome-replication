@@ -2,10 +2,10 @@
 
 This repository contains a replication study of the seminal paper *The China Syndrome: Local Labor Market Effects of Import Competition in the United States*, originally published by Autor, Dorn, and Hanson.
 
-## 📄 The Paper
-[**Click here to read the full replication report (PDF)**](Autor et al. "The China Syndrome" replication 2025.pdf)
+## The Paper
+Autor et al. "The China Syndrome" replication 2025.pdf
 
-## 💻 The Code
+## The Code
 The analysis is performed using R. The replication covers the main tables presented in the original paper.
 
 ### Repository Structure:
